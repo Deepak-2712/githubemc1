@@ -1,2 +1,3 @@
 welc
 the file is added
+the file is deleted
